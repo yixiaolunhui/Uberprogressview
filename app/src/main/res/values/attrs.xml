@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="UberProgressView">
+        <attr name="UberBottomBgColor" format="color"/>
+        <attr name="UberLeftColor" format="color"/>
+        <attr name="UberRightColor" format="color"/>
+        <attr name="UberProgressHeight" format="dimension"/>
+    </declare-styleable>
+</resources>
